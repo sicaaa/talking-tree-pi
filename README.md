@@ -19,8 +19,12 @@ Install an editor on your Raspberry Pi: <br>
 https://code.visualstudio.com/docs/setup/raspberry-pi <br>
 
 You can install it by running: <br>
-`sudo apt update`
+`sudo apt update` <br>
 `sudo apt install code`
+
+Update VS Code: <br>
+`sudo apt update` <br>
+`sudo apt upgrade code`
 
 ### install python
 Install Python on your Raspberry Pi: <br>
