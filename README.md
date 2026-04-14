@@ -15,8 +15,8 @@ https://www.raspberrypi.com/software/</br>
 ## install
 
 ### install VS code 
-Install an editor on your Raspberry Pi:
-https://code.visualstudio.com/docs/setup/raspberry-pi
+Install an editor on your Raspberry Pi: <br>
+https://code.visualstudio.com/docs/setup/raspberry-pi <br>
 
 ### install python
 Install Python on your Raspberry Pi: <br>
