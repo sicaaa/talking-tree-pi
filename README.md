@@ -1,4 +1,5 @@
 # talking-tree-pi
+The aim of this project is to develop a conversational tree to raise awareness of environmental stressors :deciduous_tree:. To achieve this, we are focusing on developing an LLM that runs locally on a Raspberry Pi 5.
 
 ## Raspberry Pi 5
 Raspberry Pi 5 with 16 GB RAM and 64-bit OS. </br>
