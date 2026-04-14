@@ -18,6 +18,10 @@ https://www.raspberrypi.com/software/</br>
 Install an editor on your Raspberry Pi: <br>
 https://code.visualstudio.com/docs/setup/raspberry-pi <br>
 
+You can install it by running: <br>
+`sudo apt update`
+`sudo apt install code`
+
 ### install python
 Install Python on your Raspberry Pi: <br>
 https://www.python.org <br>
