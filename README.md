@@ -2,8 +2,7 @@
 The aim of this project is to develop a conversational tree to raise awareness of environmental stressors :deciduous_tree:. To achieve this, we are focusing on developing an LLM that runs locally on a Raspberry Pi 5.
 
 ## getting started with raspberry pi
-A Raspberry Pi device is a compact computer that can be used as a desktop computer.
-To get started, do to the raspberry documentation website: </br>
+To get started, go to the raspberry documentation website: </br>
 https://www.raspberrypi.com/documentation/computers/getting-started.html </br>
 
 Then, download the Raspberry Pi OS (64-bit) Full.</br>
