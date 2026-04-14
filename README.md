@@ -1,10 +1,17 @@
 # talking-tree-pi
 The aim of this project is to develop a conversational tree to raise awareness of environmental stressors :deciduous_tree:. To achieve this, we are focusing on developing an LLM that runs locally on a Raspberry Pi 5.
 
-## hardware set up
-Raspberry Pi 5 with 8 or 16GB RAM and 64-bit OS. </br>
-To get started, download the 64-bit OS and install it on your Raspberry Pi: 
+## getting started with raspberry pi
+A Raspberry Pi device is a compact computer that can be used as a desktop computer.
+To get started, do to the raspberry documentation website: </br>
+https://www.raspberrypi.com/documentation/computers/getting-started.html </br>
+
+Then, download the Raspberry Pi OS (64-bit) Full.</br>
 https://www.raspberrypi.com/software/operating-systems/ </br>
+
+Install Raspberry Pi OS on a SD card by using the Raspberry Pi Imager : </br>
+https://www.raspberrypi.com/software/</br>
+
 
 ## install
 
