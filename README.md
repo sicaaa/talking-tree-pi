@@ -14,8 +14,12 @@ https://www.raspberrypi.com/software/</br>
 
 ## install
 
+### install VS code 
+Install an editor on your Raspberry Pi:
+https://code.visualstudio.com/docs/setup/raspberry-pi
+
 ### install python
-To get started, download Python on macOS: <br>
+Install Python on your Raspberry Pi: <br>
 https://www.python.org <br>
 
 - open the terminal and make sure you are using the correct Python installation: `python3 --version`
@@ -30,10 +34,6 @@ Then, install additional packages via the terminal by using pip or pip3: <br>
 - install numpy package for multi-dimensional arrays `pip3 install numpy`
 - install piper-tts package for local text-to-speech `pip3 install piper-tts`
 - install onnxruntime for ONNX models `pip3 install onnxruntime`
-
-
-### install VS code 
-https://code.visualstudio.com/docs/setup/raspberry-pi
 
 
 ### install ollama
@@ -54,7 +54,7 @@ https://www.thoughtasylum.com/2025/08/25/text-to-speech-on-macos-with-piper/ <br
 
 - open the terminal and install piper: `pip3 install piper-tts`
 
-If the installation via pip fails you can download the following file fpr your macOS: <br>
+If the installation via pip fails you can download the following file for your macOS: <br>
 https://sourceforge.net/projects/piper-tts.mirror/files/2023.11.14-2/piper_macos_aarch64.tar.gz/download <br>
 
 
