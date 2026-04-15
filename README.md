@@ -63,7 +63,7 @@ Then, install sounddevice: <br>
 
 Install piper-tts package for local text-to-speech: <br>
 `pip install piper-tts`<br>
-and <br>
+
 Install onnxruntime for ONNX models <br>
 `pip install onnxruntime` <br>
 
