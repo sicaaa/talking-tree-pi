@@ -30,13 +30,18 @@ Update VS Code: <br>
 Install Python on your Raspberry Pi: <br>
 https://www.python.org <br>
 
-- open the terminal and make sure you are using the correct Python installation: `python3 --version`
-- upgrade pip `python3 -m pip install --upgrade pip`
+Open the terminal and make sure you are using the correct Python installation: <br>
+`python3 --version`
+Upgrade pip: <br>
+`python3 -m pip install --upgrade pip`
 
 Install additional packages: <br>
-- install requests package for sending HTTP requests `sudo apt install python3-requests`
-- install scipy package for scientific computing and technical computing `sudo apt install python3-scipy`
-- install numpy package for multi-dimensional arrays `sudo apt install python3-numpy`
+install requests package for sending HTTP requests: <br>
+`sudo apt install python3-requests` <br>
+Install scipy package for scientific computing and technical computing: <br>
+`sudo apt install python3-scipy`
+Install numpy package for multi-dimensional arrays: <br>
+`sudo apt install python3-numpy`<br>
 
 ### install whisper on a raspberry pi
 
