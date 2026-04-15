@@ -33,16 +33,35 @@ https://www.python.org <br>
 - open the terminal and make sure you are using the correct Python installation: `python3 --version`
 - upgrade pip `python3 -m pip install --upgrade pip`
 
-Then, install additional packages via the terminal by using pip or pip3: <br>
-
+Install additional packages: <br>
 - install requests package for sending HTTP requests `sudo apt install python3-requests`
 - install scipy package for scientific computing and technical computing `sudo apt install python3-scipy`
 - install numpy package for multi-dimensional arrays `sudo apt install python3-numpy`
-- 
-- install sounddevice package for audio input/output `pip3 install sounddevice`
-- install piper-tts package for local text-to-speech `pip3 install piper-tts`
-- install onnxruntime for ONNX models `pip3 install onnxruntime`
-- install faster-whisper package for fast speech-to-text `pip3 install faster-whisper`
+
+### install whisper on a raspberry pi
+
+install faster-whisper on a rapsberry pi: <br>
+`sudo apt update`<br>
+`sudo apt install python3-pip python3-venv` <br>
+
+Create a virtual environment: <br>
+`spython3 -m venv whisper-envs` <br>
+
+Activate it: <br>
+`source whisper-env/bin/activate`<br>
+
+Now install faster-whisper:<br>
+`pip install faster-whisper`<br>
+
+Then, install sounddevice: <br>
+`pip install sounddevice`<br>
+
+Install piper-tts package for local text-to-speech: <br>
+`pip install piper-tts`<br>
+and <br>
+Install onnxruntime for ONNX models <br>
+`pip install onnxruntime` <br>
+
 
 
 ### install ollama
